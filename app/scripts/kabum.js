@@ -12,8 +12,7 @@ $(document).ready(function () {
       var photo = $(this).find('.H-img') || '';
       var title = $(this).find('.H-titulo').html() || '';
       var description = $(this).find('.H-subtitulo').html() || '';
-      var price = $(this).find('.H-preco-D').html() + "\n   "+
-      $(this).find('.H-preco').html() + "\n" || '';
+      var price = $(this).find('.H-preco').html() || '';
       var price12x =   $(this).find('.H-preco12x').html() || '';
 
       // not an property ad, jumps to next iteration
