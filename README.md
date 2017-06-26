@@ -1,5 +1,5 @@
 # JQuery Crawler
-> JQuery Crawler that gets a page html and parses it to find relevant information
+> JQuery Crawler that parses a html page to find relevant information
 
 ## Features
 
