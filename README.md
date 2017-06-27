@@ -12,3 +12,11 @@
 - Install: `npm install`
 - Install [Live Server](https://www.npmjs.com/package/live-server) globally `https://www.npmjs.com/package/live-server`
 - Run `live-server` on root directory
+
+
+* To run inf.js:
+ inside root folder
+```
+cd scripts/node
+node inf.js
+```
